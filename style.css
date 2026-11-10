@@ -1,0 +1,21 @@
+html {
+    background-color: dodgerblue;
+}
+
+.redpart {
+    background-color: tomato;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 36px;
+}
+
+.randombs {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.eelopar {
+    font-family: "Comic Sans MS";
+    text-align: center;
+    background-color: blanchedalmond;
+}
